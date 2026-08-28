@@ -6,10 +6,10 @@ Este proyecto contiene 4 versiones diferentes de una aplicación de Tic Tac Toe 
 
 El repositorio está organizado en las siguientes carpetas:
 
-- **Version_1/** - Primera versión de la aplicación
-- **Version_2/** - Segunda versión de la aplicación
-- **Version_3/** - Tercera versión de la aplicación
-- **Version_4/** - Cuarta versión de la aplicación
+- **Tic_Tac_Toe** - version original
+- **columnas** - modifica el numero de columnas
+- **lenguaje** - ajusta el lenguaje a español
+- **bordes** - ajusta el ancho de los bordes 
 
 Cada carpeta contiene los archivos necesarios de Eclipse/WildFly para su respectiva versión.
 
@@ -26,11 +26,8 @@ Cada versión representa una iteración diferente del juego de Tic Tac Toe, con 
 
 ## Versiones Disponibles
 
-- Versión 1
-- Versión 2
-- Versión 3
-- Versión 4
+- Tic_Tac_Toe
+- columnas
+- lenguaje
+- bordes
 
----
-
-*Actualiza este README con información específica sobre las diferencias entre versiones*
